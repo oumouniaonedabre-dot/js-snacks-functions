@@ -5,7 +5,6 @@ const nomi = ["Anna", "Luca", "Marco", "Adele", "Giovanni", "Alessandra"];
 
 // Dichiara la funzione qui.
 function prendiIniziali(listaNomi) {
-    // .map prende ogni "singoloNome" dalla "listaNomi" e ne estrae la prima lettera
     return listaNomi.map(singoloNome => singoloNome.charAt(0));
 }
 
