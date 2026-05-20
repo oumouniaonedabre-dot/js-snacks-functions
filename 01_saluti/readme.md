@@ -11,3 +11,5 @@ BONUS
 
 Risolvere gli snack usando sia le funzioni tradizionali che le arrow functions.
 Risolvere il quarto snack nella cartellina 05 - bonus
+
+
