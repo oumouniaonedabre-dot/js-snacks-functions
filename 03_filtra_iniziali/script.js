@@ -4,9 +4,13 @@ const names = ["Anna", "Luca", "Marco", "Adele", "Laura", "Alessandra"];
 
 
 // Dichiara la funzione qui.
-
+function filtraIniziali(arr, lettere) {
+    return arr. filtra(nome => nome.charAt(0) === lettere);
+}
+    
 
 // Invoca la funzione qui e stampa il risultato in console
+const filtrateNomi = filtraIniziali(names, 'A');
 
 
 
